@@ -1,4 +1,4 @@
-# PIR10-AVX512: Microarchitectural Implementation & Integration Architecture
+# PIR10-AVX512: Configuration B (Extreme) Implementation & Deterministic Integration Architecture
 
 - **Implementation Architecture:** Juho Artturi Hemminki
 - **License Inquiries:** For licensing terms, integration requests, or commercial inquiries, contact projectflagcarrier@gmail.com.
